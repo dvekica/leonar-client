@@ -21,8 +21,8 @@ document.addEventListener('DOMContentLoaded', function() {
     // Показати привітальне повідомлення в консолі
     console.log(`
     ╔══════════════════════════════════════╗
-    ║          LEONAR CLIENT               ║
-    ║     Найкращий Minecraft клієнт       ║
+    ║           LEONAR CLIENT              ║
+    ║          Minecraft Client            ║
     ╚══════════════════════════════════════╝
     `);
 });
@@ -520,4 +520,4 @@ style.textContent = `
 document.head.appendChild(style);
 
 // ===== ФІНАЛЬНА ІНІЦІАЛІЗАЦІЯ =====
-console.log('✅ Всі JavaScript компоненти Leonar Client ініціалізовано успішно!');
+console.log('Прошло Успешно');
